@@ -4,14 +4,11 @@ This is an application for all of the Muslims to always be able to do dhikr anyw
 ![Doa Dan Dzikir App](https://github.com/dilahkhai/Doa-dan-Dzikir-App/assets/110214885/749c683b-075f-478a-8be7-ea5f163c4c2a)
 
 
-# Doa Dan Dzikir App
-
-This is an application for Muslims to always be able to do dhikr anywhere and anytime.
-
-
 ## Credits
 
 - [Miss Nina](https://youtube.com/playlist?list=PLwzF9lsg4kVLATsycZROf0lZPfk0Sf7Er&si=pvwNJg_s-V7Qlsln)
+
+- IDN Boarding School
 
 - Miss Tia
 
